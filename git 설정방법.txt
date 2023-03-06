@@ -1,0 +1,4 @@
+git init repository 생성해줘라
+기본 브랜치 main으로 변경
+git branch -M main
+asdas
